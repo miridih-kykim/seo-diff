@@ -4,9 +4,15 @@ const { exec } = require('child_process');
 const {target} = require('./target');
 
 const getFilePath = (filename)  => path.join(__dirname, `/generates/${filename}.txt`);
-const getCommand = (url, path) => `curl -L -s GET "${url}" | xmllint --html --xpath "//meta" - 2>/dev/null > ${path}`;
 
-target.forEach(({url, filename}) => {
-    const command = getCommand(url, getFilePath(filename));
-    exec(command);
+const promises = target.map(({url, filename}) => {
+    return fetch(url).then(res => res.text())
 })
+
+Promise.all(promises).then((htmlList) => {
+    htmlList.forEach((html, i) => {
+        const metas = html.match(/<meta[^>]*>/g).sort()
+        fs.writeFileSync(getFilePath(target[i].filename), metas.join('\n'))
+    })
+})
+
