@@ -14,8 +14,8 @@ const promises = target.map(async ({ url, filename }) => {
 Promise.all(promises).then((res) => {
     res.forEach(({ html, path }) => {
         const sortedMetas = html.match(/<meta[^>]*>/g)
-            .sort()
             .map((meta) => meta.replace('/>', '>').replace(/\sid="[^"]*"/, ''))
+            .sort()
 
         fs.writeFileSync(path, sortedMetas.join('\n'))
     })
