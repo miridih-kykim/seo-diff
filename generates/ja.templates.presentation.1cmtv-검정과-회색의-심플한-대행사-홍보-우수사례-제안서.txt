@@ -1,25 +1,20 @@
 <meta charset="UTF-8">
-<meta name="description" content="MiriCanvas(ミリキャンバス)で使用するのに適した独自のデザインテンプレートを見つけてください。">
-<meta name="facebook-domain-verification" content="o779dvl35rxbwipnag9ggd5w723h9q">
-<meta name="google-site-verification" content="nwbI3Y2xmf9ighkhObFEMgbQFiykpcVtBLeyanUNzEk">
-<meta name="naver-site-verification" content="a51660ca10be88ce5e2ea8d2682e3a27439c1829">
-<meta name="next-head-count" content="24">
-<meta name="p:domain_verify" content="6f9874cfe3c5e88c6fea55b2bc27f8c5">
+<meta id="keywords" name="keywords" content="기업,검정,그래프,선,단순,회색,소개,솔루션,차트,라인,사례,멋진,개선,깔끔,심플,대행사,회사,성공,홍보,마케팅">
+<meta id="ogTitle" property="og:title" content="검정과 회색의 심플한 대행사 홍보 우수사례 제안서 - MiriCanvas(ミリキャンバス)">
+<meta id="twitterTitle" name="twitter:title" content="검정과 회색의 심플한 대행사 홍보 우수사례 제안서 - MiriCanvas(ミリキャンバス)">
+<meta name="description" content="MiriCanvas(ミリキャンバス) を介して、100% 無料で何万もの無料テンプレートを使用できます。">
 <meta name="robots" content="noindex">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@miricanvas">
-<meta name="twitter:description" content="MiriCanvas(ミリキャンバス)で使用するのに適した独自のデザインテンプレートを見つけてください。">
-<meta name="twitter:image" content="https://file-staging.miricanvas.com/template_thumb/2024/06/03/21/30/kbn0ze8sdw9rb03y/thumb.jpg?size=400">
+<meta name="twitter:description" content="MiriCanvas(ミリキャンバス) を介して、100% 無料で何万もの無料テンプレートを使用できます。">
+<meta name="twitter:image" content="https://file.miricanvas.com/template_thumb/2024/06/03/21/30/kbn0ze8sdw9rb03y/thumb.jpg?size=400">
 <meta name="twitter:site" content="@miricanvas">
-<meta name="twitter:title" content="黒とグレーのシンプルなエージェンシー広報優秀事例提案書 - MiriCanvas(ミリキャンバス)">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
 <meta property="fb:app_id" content="561547997625169">
-<meta property="og:description" content="MiriCanvas(ミリキャンバス)で使用するのに適した独自のデザインテンプレートを見つけてください。">
-<meta property="og:image" content="https://file-staging.miricanvas.com/template_thumb/2024/06/03/21/30/kbn0ze8sdw9rb03y/thumb.jpg?size=400">
+<meta property="og:description" content="MiriCanvas(ミリキャンバス) を介して、100% 無料で何万もの無料テンプレートを使用できます。">
+<meta property="og:image" content="https://file.miricanvas.com/template_thumb/2024/06/03/21/30/kbn0ze8sdw9rb03y/thumb.jpg?size=400">
 <meta property="og:image:height" content="225">
-<meta property="og:image:secure_url" content="https://file-staging.miricanvas.com/template_thumb/2024/06/03/21/30/kbn0ze8sdw9rb03y/thumb.jpg?size=400">
+<meta property="og:image:secure_url" content="https://file.miricanvas.com/template_thumb/2024/06/03/21/30/kbn0ze8sdw9rb03y/thumb.jpg?size=400">
 <meta property="og:image:width" content="400">
-<meta property="og:site_name" content="MiriCanvas">
-<meta property="og:title" content="黒とグレーのシンプルなエージェンシー広報優秀事例提案書 - MiriCanvas(ミリキャンバス)">
+<meta property="og:site_name" content="미리캔버스">
 <meta property="og:type" content="website">
