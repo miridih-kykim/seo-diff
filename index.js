@@ -11,8 +11,11 @@ const promises = target.map(({url, filename}) => {
 
 Promise.all(promises).then((htmlList) => {
     htmlList.forEach((html, i) => {
-        const metas = html.match(/<meta[^>]*>/g).sort()
-        fs.writeFileSync(getFilePath(target[i].filename), metas.join('\n'))
+        const sortedMetas = html.match(/<meta[^>]*>/g)
+            .sort()
+            .map((meta) => meta.toLowerCase())
+            .map((meta) => meta.replace('/>', '>'))
+        fs.writeFileSync(getFilePath(target[i].filename), sortedMetas.join('\n'))
     })
 })
 
