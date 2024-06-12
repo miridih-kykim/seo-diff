@@ -6,7 +6,7 @@ const {target} = require('./target');
 const getFilePath = (filename)  => path.join(__dirname, `/generates/${filename}.txt`);
 
 const promises = target.map(({url, filename}) => {
-    return fetch(url).then(res => res.text())
+    return fetch(url).then(res => res.text()).then(decodeURI)
 })
 
 Promise.all(promises).then((htmlList) => {
