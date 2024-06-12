@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { exec } = require('child_process');
-const {target} = require('./target');
+const { target } = require('./target');
 const he = require('he');
 
 const getFilePath = (filename)  => path.join(__dirname, `/generates/${filename}.txt`);
