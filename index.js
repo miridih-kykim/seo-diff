@@ -14,7 +14,6 @@ Promise.all(promises).then((htmlList) => {
     htmlList.forEach((html, i) => {
         const sortedMetas = html.match(/<meta[^>]*>/g)
             .sort()
-            .map((meta) => meta.replace('charSet', 'charset'))
             .map((meta) => meta.replace('/>', '>'))
         fs.writeFileSync(getFilePath(target[i].filename), sortedMetas.join('\n'))
     })
