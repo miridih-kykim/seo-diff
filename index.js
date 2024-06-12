@@ -15,7 +15,7 @@ Promise.all(promises).then((res) => {
     res.forEach(({ html, path }) => {
         const sortedMetas = html.match(/<meta[^>]*>/g)
             .sort()
-            .map((meta) => meta.replace('/>', '>'))
+            .map((meta) => meta.replace('/>', '>').replace(/\sid="[^"]*"/, ''))
 
         fs.writeFileSync(path, sortedMetas.join('\n'))
     })
