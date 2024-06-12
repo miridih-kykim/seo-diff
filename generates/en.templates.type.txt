@@ -1,19 +1,4 @@
-<meta charset="UTF-8">
-<meta id="keywords" name="keywords" content="unique design templates, free design templates, unique design templates, free design tool, copyright free, MiriCanvas">
-<meta id="ogTitle" property="og:title" content="MiriCanvas | Unique templates for better designs">
-<meta id="twitterTitle" name="twitter:title" content="MiriCanvas | Unique templates for better designs">
-<meta name="description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:creator" content="@miricanvas">
-<meta name="twitter:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
-<meta name="twitter:image" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_all.png">
-<meta name="twitter:site" content="@miricanvas">
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
-<meta property="fb:app_id" content="561547997625169">
-<meta property="og:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
-<meta property="og:image" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_all.png">
-<meta property="og:image:height" content="675">
-<meta property="og:image:secure_url" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_all.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:site_name" content="MiriCanvas">
-<meta property="og:type" content="website">
+<meta charset="utf-8">
+<meta name="next-head-count" content="2">
+<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
