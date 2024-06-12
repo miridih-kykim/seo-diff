@@ -1,19 +1,19 @@
 <meta charset="UTF-8">
-<meta id="keywords" name="keywords" content="무료 디자인 템플릿, 미리캔버스, miricanvas"/>
-<meta id="ogTitle" property="og:title" content="템플릿 - 미리캔버스	"/>
-<meta id="twitterTitle" name="twitter:title" content="템플릿 - 미리캔버스	"/>
-<meta name="description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요."/>
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:creator" content="@miricanvas"/>
-<meta name="twitter:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요."/>
-<meta name="twitter:image" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_ko.png"/>
-<meta name="twitter:site" content="@miricanvas"/>
+<meta id="keywords" name="keywords" content="무료 디자인 템플릿, 미리캔버스, miricanvas">
+<meta id="ogTitle" property="og:title" content="템플릿 - 미리캔버스	">
+<meta id="twitterTitle" name="twitter:title" content="템플릿 - 미리캔버스	">
+<meta name="description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@miricanvas">
+<meta name="twitter:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
+<meta name="twitter:image" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_ko.png">
+<meta name="twitter:site" content="@miricanvas">
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
-<meta property="fb:app_id" content="561547997625169"/>
-<meta property="og:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요."/>
-<meta property="og:image" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_ko.png"/>
+<meta property="fb:app_id" content="561547997625169">
+<meta property="og:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
+<meta property="og:image" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_ko.png">
 <meta property="og:image:height" content="675">
-<meta property="og:image:secure_url" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_ko.png"/>
+<meta property="og:image:secure_url" content="https:&#x2F;&#x2F;resource.miricanvas.com&#x2F;2_0&#x2F;image&#x2F;og&#x2F;OG_templates_ko.png">
 <meta property="og:image:width" content="1200">
-<meta property="og:site_name" content="미리캔버스"/>
-<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="미리캔버스">
+<meta property="og:type" content="website">
