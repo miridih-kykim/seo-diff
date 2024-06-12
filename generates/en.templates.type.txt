@@ -1,4 +1,20 @@
-<meta charSet="utf-8">
-<meta name="next-head-count" content="2">
-<meta name="viewport" content="width=device-width">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
+<meta charset="UTF-8">
+<meta http-equiv="origin-trial" content="AwnOWg2dzaxHPelVjqOT/Y02cSxnG2FkjXO7DlX9VZF0eyD0In8IIJ9fbDFZGXvxNvn6HaF51qFHycDGLOkj1AUAAACAeyJvcmlnaW4iOiJodHRwczovL2NyaXRlby5jb206NDQzIiwiZmVhdHVyZSI6IlByaXZhY3lTYW5kYm94QWRzQVBJcyIsImV4cGlyeSI6MTY5NTE2Nzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
+<meta name="description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
+<meta name="keywords" content="unique design templates, free design templates, unique design templates, free design tool, copyright free, MiriCanvas">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@miricanvas">
+<meta name="twitter:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
+<meta name="twitter:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
+<meta name="twitter:site" content="@miricanvas">
+<meta name="twitter:title" content="MiriCanvas | Unique templates for better designs">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta property="fb:app_id" content="561547997625169">
+<meta property="og:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
+<meta property="og:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
+<meta property="og:image:height" content="675">
+<meta property="og:image:secure_url" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:site_name" content="MiriCanvas">
+<meta property="og:title" content="MiriCanvas | Unique templates for better designs">
+<meta property="og:type" content="website">

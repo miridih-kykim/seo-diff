@@ -5,7 +5,7 @@ const domainList = ['/templates', '/templates/type', '/templates/presentation', 
 
 langList.forEach((lang) => {
     domainList.forEach((domain) => {
-        target.push({ url: `https://staging.miricanvas.com/${lang}${domain}`, filename: `${lang}${domain}`.replaceAll('/', '.') })
+        target.push({ url: `https://www.miricanvas.com/${lang}${domain}`, filename: `${lang}${domain}`.replaceAll('/', '.') })
     })
 })
 
