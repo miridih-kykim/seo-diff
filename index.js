@@ -8,12 +8,14 @@ const { getFilePath, getMetaTags, replaceNoise } = require('./lib');
 const usePuppeteer = process.env.USE_PUPPETEER === 'true';
 
 if (usePuppeteer) {
-    puppeteer.launch({ headless: false }).then(async (browser) => {
+    puppeteer.launch().then(async (browser) => {
+        console.log('Puppeteer 실행!');
         const page = await browser.newPage();
 
         for (let i= 0; i < target.length; i++) {
             const { url, filename } = target[i];
 
+            console.log(`[${i + 1}/${target.length}] "${url}" 페이지 접속중...`);
             await page.goto(url);
             const html = await page.content();
             const sortedMetas = getMetaTags(html).map(replaceNoise).sort();
