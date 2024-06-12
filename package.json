@@ -11,5 +11,8 @@
     "type": "git",
     "url": "https://github.com/miridih-jwlee01/meta-diff.git"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "he": "^1.2.0"
+  }
 }
