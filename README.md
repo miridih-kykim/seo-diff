@@ -1,4 +1,4 @@
-# meta-diff
+# seo-diff
 
 ### 사용법
 
