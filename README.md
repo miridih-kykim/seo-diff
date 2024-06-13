@@ -11,7 +11,7 @@ npm run start:fetch // fetch api를 이용해 html을 가져옵니다.
 npm run start:puppeteer // puppeteer 크롤러를 이용해 html을 가져옵니다. 
 ```
 
-meta 태그들은 아래와 같은 replace 로직을 거치게 되며, 오름차순으로 자동정렬됩니다.
+seo 관련 태그들은 아래와 같은 replace 로직을 거치게 되며, 오름차순으로 자동정렬됩니다.
 - '/>' 는 '>' 로 대체
 - `id` 속성은 제거
 
