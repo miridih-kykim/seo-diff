@@ -1,19 +1,24 @@
-<meta charset="UTF-8">
+<meta charSet="UTF-8">
 <meta name="description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
-<meta name="keywords" content="무료 디자인 템플릿, 미리캔버스, miricanvas">
+<meta name="facebook-domain-verification" content="o779dvl35rxbwipnag9ggd5w723h9q">
+<meta name="google-site-verification" content="nwbI3Y2xmf9ighkhObFEMgbQFiykpcVtBLeyanUNzEk">
+<meta name="naver-site-verification" content="a51660ca10be88ce5e2ea8d2682e3a27439c1829">
+<meta name="next-head-count" content="23">
+<meta name="p:domain_verify" content="6f9874cfe3c5e88c6fea55b2bc27f8c5">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@miricanvas">
 <meta name="twitter:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
 <meta name="twitter:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_ko.png">
 <meta name="twitter:site" content="@miricanvas">
 <meta name="twitter:title" content="무료 카드뉴스 템플릿 - 미리캔버스">
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
 <meta property="fb:app_id" content="561547997625169">
 <meta property="og:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
 <meta property="og:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_ko.png">
-<meta property="og:image:height" content="">
+<meta property="og:image:height" content="675">
 <meta property="og:image:secure_url" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_ko.png">
-<meta property="og:image:width" content="">
+<meta property="og:image:width" content="1200">
 <meta property="og:site_name" content="미리캔버스">
 <meta property="og:title" content="무료 카드뉴스 템플릿 - 미리캔버스">
 <meta property="og:type" content="website">
