@@ -1,29 +1,34 @@
-<link rel="alternate" hreflang="de" href="https://www.miricanvas.com/de/templates">
-<link rel="alternate" hreflang="en" href="https://www.miricanvas.com/en/templates">
-<link rel="alternate" hreflang="es" href="https://www.miricanvas.com/es/templates">
-<link rel="alternate" hreflang="fr" href="https://www.miricanvas.com/fr/templates">
-<link rel="alternate" hreflang="it" href="https://www.miricanvas.com/it/templates">
-<link rel="alternate" hreflang="ja" href="https://www.miricanvas.com/ja/templates">
-<link rel="alternate" hreflang="ko" href="https://www.miricanvas.com/templates">
-<link rel="alternate" hreflang="nl" href="https://www.miricanvas.com/nl/templates">
-<link rel="alternate" hreflang="pt" href="https://www.miricanvas.com/pt/templates">
-<link rel="canonical" href="https://www.miricanvas.com/en/templates">
-<meta charset="UTF-8">
-<meta name="description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
-<meta name="keywords" content="unique design templates, free design templates, unique design templates, free design tool, copyright free, MiriCanvas">
+<link rel="alternate" hrefLang="de" href="https://www.miricanvas.com/de/templates">
+<link rel="alternate" hrefLang="en" href="https://www.miricanvas.com/en/templates">
+<link rel="alternate" hrefLang="es" href="https://www.miricanvas.com/es/templates">
+<link rel="alternate" hrefLang="fr" href="https://www.miricanvas.com/fr/templates">
+<link rel="alternate" hrefLang="it" href="https://www.miricanvas.com/it/templates">
+<link rel="alternate" hrefLang="ja" href="https://www.miricanvas.com/ja/templates">
+<link rel="alternate" hrefLang="ko" href="https://www.miricanvas.com/templates">
+<link rel="alternate" hrefLang="nl" href="https://www.miricanvas.com/nl/templates">
+<link rel="alternate" hrefLang="pt" href="https://www.miricanvas.com/pt/templates">
+<link rel="canonical" href="https://www.miricanvas.com/templates">
+<meta charSet="UTF-8">
+<meta name="description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
+<meta name="facebook-domain-verification" content="o779dvl35rxbwipnag9ggd5w723h9q">
+<meta name="google-site-verification" content="nwbI3Y2xmf9ighkhObFEMgbQFiykpcVtBLeyanUNzEk">
+<meta name="naver-site-verification" content="a51660ca10be88ce5e2ea8d2682e3a27439c1829">
+<meta name="next-head-count" content="33">
+<meta name="p:domain_verify" content="6f9874cfe3c5e88c6fea55b2bc27f8c5">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@miricanvas">
-<meta name="twitter:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
-<meta name="twitter:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
+<meta name="twitter:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
+<meta name="twitter:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_ko.png">
 <meta name="twitter:site" content="@miricanvas">
-<meta name="twitter:title" content="MiriCanvas | Unique templates for better designs">
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="twitter:title" content="템플릿 - 미리캔버스">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
 <meta property="fb:app_id" content="561547997625169">
-<meta property="og:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
-<meta property="og:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
+<meta property="og:description" content="미리캔버스를 통해 수만 가지의 무료 템플릿을 100% 무료로 사용하세요.">
+<meta property="og:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_ko.png">
 <meta property="og:image:height" content="675">
-<meta property="og:image:secure_url" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
+<meta property="og:image:secure_url" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_ko.png">
 <meta property="og:image:width" content="1200">
-<meta property="og:site_name" content="MiriCanvas">
-<meta property="og:title" content="MiriCanvas | Unique templates for better designs">
+<meta property="og:site_name" content="미리캔버스">
+<meta property="og:title" content="템플릿 - 미리캔버스">
 <meta property="og:type" content="website">
