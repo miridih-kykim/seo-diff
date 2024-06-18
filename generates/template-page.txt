@@ -9,15 +9,22 @@
 <link rel="alternate" hreflang="pt" href="https://www.miricanvas.com/pt/templates">
 <link rel="canonical" href="https://www.miricanvas.com/en/templates">
 <meta charset="UTF-8">
+<meta http-equiv="origin-trial" content="AwnOWg2dzaxHPelVjqOT/Y02cSxnG2FkjXO7DlX9VZF0eyD0In8IIJ9fbDFZGXvxNvn6HaF51qFHycDGLOkj1AUAAACAeyJvcmlnaW4iOiJodHRwczovL2NyaXRlby5jb206NDQzIiwiZmVhdHVyZSI6IlByaXZhY3lTYW5kYm94QWRzQVBJcyIsImV4cGlyeSI6MTY5NTE2Nzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
 <meta name="description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
 <meta name="keywords" content="unique design templates, free design templates, unique design templates, free design tool, copyright free, MiriCanvas">
+<meta name="facebook-domain-verification" content="o779dvl35rxbwipnag9ggd5w723h9q">
+<meta name="google-site-verification" content="nwbI3Y2xmf9ighkhObFEMgbQFiykpcVtBLeyanUNzEk">
+<meta name="naver-site-verification" content="a51660ca10be88ce5e2ea8d2682e3a27439c1829">
+<meta name="next-head-count" content="33">
+<meta name="p:domain_verify" content="6f9874cfe3c5e88c6fea55b2bc27f8c5">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@miricanvas">
 <meta name="twitter:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
 <meta name="twitter:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
 <meta name="twitter:site" content="@miricanvas">
 <meta name="twitter:title" content="MiriCanvas | Unique templates for better designs">
-<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, interactive-widget=resizes-content">
 <meta property="fb:app_id" content="561547997625169">
 <meta property="og:description" content="Find a unique, distinctive design template right for your use at MiriCanvas.">
 <meta property="og:image" content="https://resource.miricanvas.com/2_0/image/og/OG_templates_all.png">
